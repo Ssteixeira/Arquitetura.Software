@@ -1,1 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
 data/synthetic_beverage_sales_data.csv filter=lfs diff=lfs merge=lfs -text
