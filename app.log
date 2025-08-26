@@ -48,3 +48,25 @@
 2     ORD1     CUS1496           B2B              Sprite  Soft Drinks        1.17        73      0.05        81.14  Baden-Württemberg  2023-08-23
 3     ORD1     CUS1496           B2B  Rauch Multivitamin       Juices        3.22        59      0.10       170.98  Baden-Württemberg  2023-08-23
 4     ORD1     CUS1496           B2B        Gerolsteiner        Water        0.87        35      0.10        27.40  Baden-Württemberg  2023-08-23
+2025-08-25 22:01:30,444 - INFO - Kaggle authentication successful.
+2025-08-25 22:02:29,375 - INFO - Dataset downloaded successfully.
+2025-08-25 22:03:13,876 - INFO - 8999910 rows and 11 columns.
+2025-08-25 22:03:14,083 - INFO - Top 5 records:
+  Order_ID Customer_ID Customer_Type             Product     Category  Unit_Price  Quantity  Discount  Total_Price             Region  Order_Date
+0     ORD1     CUS1496           B2B          Vio Wasser        Water        1.66        53      0.10        79.18  Baden-Württemberg  2023-08-23
+1     ORD1     CUS1496           B2B               Evian        Water        1.56        90      0.10       126.36  Baden-Württemberg  2023-08-23
+2     ORD1     CUS1496           B2B              Sprite  Soft Drinks        1.17        73      0.05        81.14  Baden-Württemberg  2023-08-23
+3     ORD1     CUS1496           B2B  Rauch Multivitamin       Juices        3.22        59      0.10       170.98  Baden-Württemberg  2023-08-23
+4     ORD1     CUS1496           B2B        Gerolsteiner        Water        0.87        35      0.10        27.40  Baden-Württemberg  2023-08-23
+2025-08-25 22:08:58,113 - INFO - Kaggle authentication successful.
+2025-08-25 22:08:58,121 - INFO - Autenticação bem-sucedida com o Kaggle.
+2025-08-25 22:09:56,209 - INFO - Dataset downloaded successfully.
+2025-08-25 22:10:25,541 - INFO - 8999910 rows and 11 columns.
+2025-08-25 22:10:25,587 - INFO - Top 5 records:
+  Order_ID Customer_ID Customer_Type             Product     Category  Unit_Price  Quantity  Discount  Total_Price             Region  Order_Date
+0     ORD1     CUS1496           B2B          Vio Wasser        Water        1.66        53      0.10        79.18  Baden-Württemberg  2023-08-23
+1     ORD1     CUS1496           B2B               Evian        Water        1.56        90      0.10       126.36  Baden-Württemberg  2023-08-23
+2     ORD1     CUS1496           B2B              Sprite  Soft Drinks        1.17        73      0.05        81.14  Baden-Württemberg  2023-08-23
+3     ORD1     CUS1496           B2B  Rauch Multivitamin       Juices        3.22        59      0.10       170.98  Baden-Württemberg  2023-08-23
+4     ORD1     CUS1496           B2B        Gerolsteiner        Water        0.87        35      0.10        27.40  Baden-Württemberg  2023-08-23
+2025-08-25 22:10:27,630 - INFO - Análise do conjunto de dados realizada com sucesso.
